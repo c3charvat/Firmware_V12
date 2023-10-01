@@ -1,0 +1,13 @@
+  string food = "Pizza";  // A string variable
+  string* ptr = &food;  // A pointer variable that stores the address of food
+  // Output the value of food
+  cout << food << "\n"; // pizza
+  // Output the memory address of food
+  cout << &food << "\n"; // addess
+  // Output the memory address of food containd in pointer
+  cout << ptr << "\n"; // addess
+  // Output the value of the held at the addess of food 
+  cout << *ptr << "\n"; // value of food
+
+  So, 
+  Wj
